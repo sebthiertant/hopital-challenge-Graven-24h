@@ -1,10 +1,17 @@
 # hopital-challenge-Graven-24h
-Challenge de Graven à réaliser en 24h.
 
-Réaliser après environs 8 heures de code.
+This is my work for the Graven Challenge in 24h.
 
-Seul le HTML et certaines ressources étaient fournies.
+I produced this project after around 8hours of coding.
 
-J'ai donc codé le style.css et le app.js, ainsi que rajouté quelques ressources.
+Only the HTML was provided, also some ressources.
 
-Mon but a été d'être capable de mettre en production une full page agréable et la plus moderne possible.
+So i added the style.css, the app.js and more ressources.
+
+My goal was to being able to produce the website full page with a modern design.
+
+
+
+
+
+Graven Developpement https://www.youtube.com/channel/UCIHVyohXw6j2T-83-uLngEg
